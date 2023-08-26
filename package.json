@@ -40,5 +40,10 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://moonphase13.github.io/non-profit-eCommerce/"
+  },
+  "homepage": "https://github.com/moonphase13/non-profit-eCommerce"
 }
